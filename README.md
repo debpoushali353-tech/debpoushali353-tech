@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 I'm **Poushali Deb**, currently pursuing my **MBA at Pune Balaji University**. I am passionate about technology, data-driven problem solving, and business analytics. I enjoy working on projects that combine analytical thinking with practical implementation to create impactful solutions.
 
