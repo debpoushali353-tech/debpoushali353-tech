@@ -60,11 +60,6 @@ I enjoy learning new technologies and improving my analytical and technical skil
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=debpoushali353-tech&theme=tokyonight" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=debpoushali353-tech&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debpoushali353-tech&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 # 🌐 Interests
