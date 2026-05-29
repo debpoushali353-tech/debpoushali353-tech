@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<img width="1983" height="793" alt="ChatGPT Image May 29, 2026, 07_27_56 AM" src="https://github.com/user-attachments/assets/a95feb2f-cf96-4a58-808e-0dc8791b84c6" />
+<img width="1983" height="793" alt="ChatGPT Image May 29, 2026, 07_29_43 AM" src="https://github.com/user-attachments/assets/6c0d359c-d07b-487f-b0a6-5876e3f93b20" />
 
 ---
 
@@ -67,4 +67,4 @@ I enjoy learning new technologies and improving my analytical and technical skil
 
 # 📌 Quote
 
-_"Data is the new oil, but insight is the real power."
+"Data is the new oil, but insight is the real power."
